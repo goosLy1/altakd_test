@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Altakid Test</string>
+    <string name="success">Успешный Успех</string>
+    <string name="failure">Пу-пу-пу...</string>
+
+    <string name="sign_up_title">Регистрация</string>
+    <string name="sign_up_btn">Зарегистрироваться</string>
+    <string name="sign_in_title">Вход</string>
+    <string name="sign_in_btn">Войти</string>
+    <string name="sign_out_btn">Выйти</string>
+    <string name="restore_password_title">Восстановление пароля</string>
+    <string name="restore_password_btn">Восстановить пароль</string>
+
+
+    <string name="email">Электронная почта*</string>
+    <string name="password">Пароль*</string>
+    <string name="req_fields">*обязательные поля</string>
+    <string name="already_have_an_account">Уже есть аккаунт?</string>
+    <string name="dont_have_an_account">Еще нет аккаунта?</string>
+    <string name="forgot_password">Забыли пароль?</string>
+
+    <string name="profile">Профиль</string>
+    <string name="family_account">Семья</string>
+    <string name="settings">Настройки</string>
+
+
+</resources>
